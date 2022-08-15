@@ -1,7 +1,7 @@
 {
   "name": "amazona",
   "version": "1.0.0",
-  "description": "# Lessons",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mahpyt/mern-amazona.git"
+    "url": "git+https://github.com/Mahpyt/amazona.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mahpyt/mern-amazonaissues"
+    "url": "https://github.com/Mahpyt/amazona/issues"
   },
-  "homepage": "https://github.com/Mahpyt/mern-amazonaissues#readme"
+  "homepage": "https://github.com/Mahpyt/amazona#readme"
 }
